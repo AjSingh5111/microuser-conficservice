@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: Confic-Dev
 
 eureka:
   instance:
